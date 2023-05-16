@@ -1,0 +1,86 @@
+/* 
+  Localizable.strings
+  Active
+
+  Created by Emrah on 2023-02-21.
+  
+*/
+//A
+"active" = "Active";
+"activity" = "Activity";
+"activity_not_available" = "Activity not available";
+"activities" = "Activities";
+"add_to_schedule" = "Add to My Schedule";
+"added_to_favorite_activities" = "Added to Favorite Activities";
+"added_to_favorite_facilities" = "Added to Favorite Facilities";
+"address" = "Address";
+"alphabetically" = "Alphabetically";
+"available" = "Available";
+//B
+"browse_activities_at" = "Browse Activities at";
+"browse_categories" = "Browse Categories";
+//C
+"clear_selection" = "Clear Selection";
+"connection_failed" = "Sorry, the connection failed";
+"contact" = "Contact";
+//D
+"day" = "Day";
+"disclaimer" = "Disclaimer";
+"distance" = "Distance";
+"drop_in_activities" = "Drop-in Activities";
+//F
+"facilities" = "Facilities";
+"facility" = "Facility";
+"favorites" = "Favorites";
+"features" = "Features";
+"full" = "Full";
+//L
+"loading" = "Loading";
+"location" = "Location";
+//M
+"my_location" = "My Location";
+"my_schedule" = "My Schedule";
+//N
+"no_available_activities" = "No available activities";
+"no_available_categories" = "No available categories";
+"no_favorite_activity" = "No favorite activity";
+"no_favorite_facility" = "No favorite facility";
+"no_facility_found" = "No facility found";
+"no_more_available_times" = "No more available times";
+"no_scheduled_activities" = "No scheduled activities";
+//P
+"past" = "Past";
+"popular_activities" = "Popular Activities";
+//R
+"recreation_facilities" = "Recreation Facilities";
+"removed_from_favorite_activities" = "Removed from Favorite Activities";
+"removed_from_favorite_facilities" = "Removed from Favorite Facilities";
+"remove_from_schedule" = "Remove from My Schedule";
+"reserve_a_spot" = "Reserve a Spot";
+"review" = "Review";
+//S
+"select_day" = "Select Day";
+"select_facility" = "Select Facility";
+"set_time" = "Set Time";
+"something_went_wrong" = "Sorry, something went wrong";
+"sort" = "Sort";
+"sort_alphabetically" = "Sort: Alphabetically";
+"sort_by" = "Sort By";
+"sort_distance" = "Sort: Distance";
+"sort_time" = "Sort: Time";
+"sort_title" = "Sort: Title";
+//T
+"time" = "Time";
+"title" = "Title";
+"today" = "Today";
+"tomorrow" = "Tomorrow";
+"try_again" = "Try Again";
+//U
+"upcoming" = "Upcoming";
+"updated" = "Updated";
+//W
+"walkthrough_page_1" = "All Drop-in Activities for Ottawa Recreation Facilities, in one place";
+"walkthrough_page_2" = "Active is an open source third party search application, for drop-in activities at City of Ottawa Recreation Facilities. Data is collected from City of Ottawa official website and might not always be accurate";
+"walkthrough_page_3" = "Active does not collect any personal data, although location data is required to sort activities and facilities by distance. Please allow location access for a better experience";
+"walkthrough_page_4" = "Thanks for using Active!\nPlease share your feedback on AppStore\n\nDeveloped by Emrah Kinay";
+"welcome_to_active" = "Welcome to Active!";

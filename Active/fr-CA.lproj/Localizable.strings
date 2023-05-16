@@ -1,0 +1,86 @@
+/* 
+  Localizable.strings
+  Active
+
+  Created by Emrah on 2023-02-21.
+  
+*/
+//A
+"active" = "Active";
+"activity" = "Activité";
+"activity_not_available" = "Activité non disponible";
+"activities" = "Activités";
+"add_to_schedule" = "Ajouter à mon calendrier";
+"added_to_favorite_activities" = "Ajouté aux activités favorites";
+"added_to_favorite_facilities" = "Ajouté aux installations favorites";
+"address" = "Adresse";
+"alphabetically" = "Alphabétiquement";
+"available" = "Disponible";
+//B
+"browse_activities_at" = "Parcourir les activités sur";
+"browse_categories" = "Parcourir les catégories";
+//C
+"clear_selection" = "Effacer la sélection";
+"connection_failed" = "Désolé, la connexion a échoué";
+"contact" = "Contact";
+//D
+"day" = "Jour";
+"disclaimer" = "Clause de non-responsabilité";
+"distance" = "Distance";
+"drop_in_activities" = "Activités à la carte";
+//F
+"facilities" = "Installations";
+"facility" = "Installation";
+"features" = "Caractéristiques";
+"favorites" = "Favoris";
+"full" = "Pleine";
+//L
+"loading" = "chargement";
+"location" = "Position";
+//M
+"my_location" = "Ma position";
+"my_schedule" = "Mon calendrier";
+//N
+"no_available_activities" = "Aucune activité disponible";
+"no_available_categories" = "Aucune catégorie disponible";
+"no_facility_found" = "Aucune installation trouvée";
+"no_favorite_activity" = "Aucune activité favori";
+"no_favorite_facility" = "Aucune installation favori";
+"no_more_available_times" = "Plus d'heures disponibles";
+"no_scheduled_activities" = "Aucune activité prévue";
+//P
+"past" = "Passé";
+"popular_activities" = "Activités populaires";
+//R
+"recreation_facilities" = "Installations récréatives";
+"remove_from_schedule" = "Retirer de mon calendrier";
+"removed_from_favorite_activities" = "Supprimé des activités favorites";
+"removed_from_favorite_facilities" = "Supprimé des installations favorites";
+"reserve_a_spot" = "Réservez votre place";
+"review" = "Retour";
+//S
+"select_day" = "Sélectionnez le jour";
+"select_facility" = "Sélectionnez installation";
+"set_time" = "Régler le temps";
+"something_went_wrong" = "Désolé, quelque chose s'est mal passé";
+"sort" = "Trier";
+"sort_alphabetically" = "Trier: Alphabétiquement";
+"sort_by" = "Trier par";
+"sort_distance" = "Trier: Distance";
+"sort_time" = "Trier: Temps";
+"sort_title" = "Trier: Titre";
+//T
+"time" = "Temps";
+"title" = "Titre";
+"today" = "aujourd'hui";
+"tomorrow" = "demain";
+"try_again" = "Essayer à nouveau";
+//U
+"upcoming" = "A venir";
+"updated" = "Mis à jour";
+//W
+"walkthrough_page_1" = "Toutes les activités à la carte pour les installations récréatives d'Ottawa, en un seul endroit";
+"walkthrough_page_2" = "Active est une application de recherche tierce à source ouverte pour les activités à la carte dans les installations récréatives de la Ville d'Ottawa. Les données sont recueillies à partir du site Web officiel de la Ville d'Ottawa et peuvent ne pas toujours être exactes";
+"walkthrough_page_3" = "Active ne collecte aucune donnée personnelle, bien que les données de localisation soient nécessaires pour trier les activités et les installations par distance. Veuillez autoriser l'accès à la position pour une meilleure expérience";
+"walkthrough_page_4" = "Merci d'utiliser Active!\nVeuillez partager vos commentaires sur l'App Store77b\n\nApplication développée par Emrah Kinay";
+"welcome_to_active" = "Bienvenue sur Active!";

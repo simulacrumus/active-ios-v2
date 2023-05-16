@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  Active
+
+  Created by Emrah on 2023-02-21.
+  
+*/
+"try_again" = "Try Again";
+"browse_categories" = "Browse Categories";
+"popular_activities" = "Popular Activities";
+"no_more_available_times" = "No More Available Times";
+"reserve_a_spot" = "Reserve a Spot";
+"add_to_my_schedule" = "Add to My Schedule";
+"no_facility_found" = "No Facility Found";
+"activities" = "Activities";
+"facilities" = "Facilities";
+"favorites" = "Favorites";
+

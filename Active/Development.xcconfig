@@ -1,0 +1,14 @@
+//
+//  Development.xcconfig
+//  Active
+//
+//  Created by Emrah on 2023-02-24.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+API_SCHEME = http
+API_HOST = 104.248.106.233
+API_DEFAULT_PATH = /apps/active/api/v2/ottawa
+API_KEY = <YOUR_API_KEY>
